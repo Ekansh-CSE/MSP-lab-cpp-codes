@@ -1,6 +1,6 @@
 // private function
 // nested functions using classes
-#include <iostream>
+#include<iostream>
 using namespace std;
 class ek{
 private:
